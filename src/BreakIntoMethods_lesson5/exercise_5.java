@@ -17,3 +17,4 @@ public class exercise_5 {
      return randomNumber;
  }
 }
+
