@@ -11,6 +11,5 @@ public class task1 {
                     System.out.println(arr[j]);
             }
         }
-
     }
 }
